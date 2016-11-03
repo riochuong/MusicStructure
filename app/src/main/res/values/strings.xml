@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Happy Music App</string>
+    <string name="title_activity_search_result_list">SearchResultListActivity</string>
+    <string name="title_activity_current_playing">CurrentPlayingActivity</string>
+    <string name="search_text">Search</string>
+    <string name="my_artist_text">My Artists (tap here) </string>
+    <string name="my_album_text">My Album (tap here) </string>
+    <string name="popular_song">Top Billboard (tap here)</string>
+    <string name="my_song_text">My Songs (tap here)</string>
+    <string name="title_activity_my_artist">MyArtistActivity</string>
+    <string name="title_activity_my_album">MyAlbumActivity</string>
+    <string name="title_activity_search_result">SearchActivityResult</string>
+    <string name="song1_txt">song 1</string>
+    <string name="song2_txt">song 2</string>
+    <string name="album1_txt">album 1</string>
+    <string name="album2_txt">album 2</string>
+    <string name="artis1_txt">artist 1</string>
+    <string name="artis2_txt">artist 2</string>
+    <string name="play_btn_text">Play</string>
+    <string name="pause_text">Pause</string>
+    <string name="stop_text">Stop</string>
+    <string name="now_playing_text">Playing Music here !!!
+        Only stop button has function to kill activity </string>
+</resources>
