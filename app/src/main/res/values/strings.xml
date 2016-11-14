@@ -19,6 +19,10 @@
     <string name="play_btn_text">Play</string>
     <string name="pause_text">Pause</string>
     <string name="stop_text">Stop</string>
-    <string name="now_playing_text">Playing Music here !!!
+    <string name="now_playing_text">
+        I plan to use MEDIA PLAYER class to implement the playing function.
+        Playing Music here !!!
         Only stop button has function to kill activity </string>
+    <string name="search_lib_text">Planning to use HTTPCLient and URi classes to query the availalbe Artist and album.
+        Also can leverage some API from Spotify also.</string>
 </resources>

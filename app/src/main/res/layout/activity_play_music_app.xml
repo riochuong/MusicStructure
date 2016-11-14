@@ -24,6 +24,12 @@
             android:layout_height="wrap_content"
             android:text="@string/search_text" />
 
+        <TextView
+            android:id="@+id/text_viee_explains"
+            android:layout_width="match_parent"
+            android:text="@string/search_lib_text"
+            android:layout_height="wrap_content" />
+
     </LinearLayout>
 
     <LinearLayout
